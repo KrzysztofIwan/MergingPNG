@@ -1,0 +1,1 @@
+# Scalanie png
