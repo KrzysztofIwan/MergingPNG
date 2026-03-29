@@ -1,4 +1,3 @@
-```markdown
 # 🛠️ MergingPNG
 
 A simple C# tool to merge multiple PNG images into a single, larger PNG.
@@ -214,4 +213,3 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 - 📚 **Libraries used**:
   - [System.Drawing.Common](https://www.nuget.org/packages/System.Drawing.Common/) - Used for image processing.
-```
